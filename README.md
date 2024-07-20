@@ -40,6 +40,8 @@ The repository is structured as follows:
 
 - `SamipSinghalFall2021Project.ipynb`: Main Jupyter Notebook containing the project implementation.
 - `requirements.txt`: List of Python libraries required to run the notebook.
+- `Cora.cites`: File containing citation data for the Cora dataset.
+- `Cora.tar`: Archive file containing the Cora dataset.
 
 ## Examples
 
